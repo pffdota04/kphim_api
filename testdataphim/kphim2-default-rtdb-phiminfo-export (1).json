@@ -1,0 +1,817 @@
+[ {
+  "actor" : "Leonardo Dicaprio",
+  "country" : "us",
+  "createDay" : "2021-07-24",
+  "description" : "Bộ phim dựa trên câu chuyện có thật về con tàu xấu số Titanic và một trong những mối tình nổi tiếng nhất lịch sử điện ảnh.",
+  "director" : "James cmaerum",
+  "id" : 0,
+  "img" : "https://www.usna.edu/Users/cs/wcbrown/courses/F02SI204/projects/P01/HW2.gif",
+  "length" : "3h30p",
+  "level" : "P",
+  "onlist" : "trending",
+  "priceVip" : "10",
+  "recommend" : 5,
+  "status" : 1,
+  "title" : "FISRT FLIM IN KPHIM",
+  "trending" : 0,
+  "type" : {
+    "action" : "action",
+    "drama" : "drama",
+    "history" : "history",
+    "movie" : "movie",
+    "romantic" : "romantic"
+  },
+  "year" : "1998",
+  "yttrailer" : "pHlSE9j5FGY"
+}, {
+  "Editday" : "2021-08-18",
+  "actor" : " Tom Hardy, Charlize Theron, Nicholas Hoult",
+  "country" : "us",
+  "createDay" : "2021-07-20",
+  "description" : "Trong một thế giới hậu tận thế khắc nghiệt, một người phụ nữ nổi dậy chống lại kẻ thống trị độc tài và tìm kiếm sự trợ giúp từ một nhóm nữ tù nhân, một kẻ sùng bái điên rồ và một kẻ lang bạt tên Max.",
+  "director" : " George Miller",
+  "id" : 1,
+  "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY9MNe0-g2gcLa_hL2Rm_3xYrvLR1u1KUbkc_zPxothuUPbJP4MI0RAqHOzwhjaPgZORg&usqp=CAU",
+  "length" : "2h00",
+  "level" : "R",
+  "priceVip" : "7",
+  "status" : 1,
+  "title" : "Mad Max: Fury Road",
+  "trending" : 1,
+  "type" : {
+    "action" : "action",
+    "crime" : "crime",
+    "movie" : "movie",
+    "scifi" : "scifi"
+  },
+  "year" : "2015",
+  "yttrailer" : "hEJnMQG9ev8"
+}, {
+  "Editday" : "2021-07-27",
+  "actor" : "Dave Bautista, Ella Purnell, Ana de la Reguera",
+  "backimg" : "https://i.imgur.com/k9o1aOW.gif",
+  "country" : "us",
+  "createDay" : "2021-07-24",
+  "description" : "Sau một đợt bùng phát zombie ở Las Vegas, một nhóm lính đánh thuê thực hiện canh bạc cuối cùng, mạo hiểm vào khu vực cách ly để thực hiện vụ trộm lớn nhất từng được thực hiện.",
+  "director" : "Zack Snyder",
+  "id" : 2,
+  "img" : "https://cdn.statically.io/img/arabseed.onl/f=auto%2Cq=20/wp-content/uploads/2021/05/AAAABXmeKVNzep2xlAKMinZgtjogOdS6GqMeXKMNsVCdRkZwMaR2l0c2hE386qf5YPJwS9DeOV_a3SIaGf0qr7sQ7XjDuqln15HNWVWBtYeGzVlfdk6LpCB9h8TsG5YA9g.jpg",
+  "length" : "2h28p",
+  "level" : "R",
+  "onlist" : "recommend",
+  "priceVip" : "10",
+  "status" : 1,
+  "title" : "Army of the dead",
+  "trending" : 6,
+  "type" : {
+    "action" : "action",
+    "horror" : "horror",
+    "movie" : "movie",
+    "scifi" : "scifi"
+  },
+  "year" : "2018",
+  "yttrailer" : "tI1JGPhYBS8"
+}, {
+  "Editday" : "2021-07-27",
+  "actor" : "Không rõ",
+  "country" : "ja",
+  "createDay" : "2021-07-24",
+  "description" : "Thức tỉnh trong khi toàn bộ nhân loại đã bị hóa đá. Thiên tài khoa học Senku và người bạn lực lưỡng Taiju sử dụng các kỹ năng của họ để xây dựng lại nền văn minh.",
+  "director" : "Không rõ",
+  "id" : 3,
+  "img" : "https://vuianime.net/upload/images/dr-stone-thumbnail.jpg",
+  "length" : "24 tập",
+  "level" : "P",
+  "onlist" : "recommend",
+  "priceVip" : "10",
+  "status" : 1,
+  "title" : "Dr Stone",
+  "trending" : 5,
+  "type" : {
+    "anime" : "anime",
+    "family" : "family",
+    "series" : "series"
+  },
+  "year" : "2019",
+  "yttrailer" : "y07k0W8fnRc"
+}, {
+  "actor" : "John David Washington, Robert Pattinson, Elizabeth Debicki",
+  "country" : "us",
+  "createDay" : "2021-07-22",
+  "description" : "Chiến đấu vì sự sống còn của toàn thế giới, Nhân vật chính hành trình qua một thế giới nơi nhiệm vụ sẽ diễn ra trong một thứ gì đó ngoài thời gian thực.",
+  "director" : " Christopher Nolan",
+  "id" : 4,
+  "img" : "https://upload.wikimedia.org/wikipedia/vi/1/18/Tenet_poster_VN.jpeg",
+  "length" : "2h30m",
+  "level" : "PG13",
+  "onlist" : "trending",
+  "priceVip" : "7",
+  "recommend" : 7,
+  "status" : 1,
+  "title" : "Tenet",
+  "trending" : 3,
+  "type" : {
+    "action" : "action",
+    "drama" : "drama",
+    "movie" : "movie",
+    "scifi" : "scifi"
+  },
+  "year" : "2020",
+  "yttrailer" : "AZGcmvrTX9M"
+}, {
+  "actor" : " Ryan Reynolds, Samuel L. Jackson, Salma Hayek",
+  "country" : "us",
+  "createDay" : "2021-07-15",
+  "description" : "Người vệ sĩ Michael Bryce (Ryan Reynolds) tiếp tục tình bạn của mình với sát thủ Darius Kincaid (Samuel L Jackson) khi họ cố gắng cứu vợ của Darius là Sonia.",
+  "director" : "Patrick Hughes",
+  "id" : 5,
+  "img" : "https://res.cloudinary.com/kphim/image/upload/v1631928664/poster/ezgif-6-4ce385753c02_ehxrjl.webp",
+  "length" : "1h40",
+  "level" : "R",
+  "onlist" : "recommend",
+  "priceVip" : "7",
+  "recommend" : 6,
+  "status" : 1,
+  "title" : "The Hitmans Wifes Bodyguard",
+  "type" : {
+    "action" : "action",
+    "comedy" : "comedy",
+    "crime" : "crime",
+    "movie" : "movie"
+  },
+  "year" : "2021",
+  "yttrailer" : "xJF4jXNIEIo"
+}, {
+  "actor" : "Không rõ",
+  "country" : "ja",
+  "createDay" : "2021-07-14",
+  "description" : "Dr. Stone mùa 2 đã trở lại, với sức mạnh của khoa học, Senku và Vương quốc Khoa học chuẩn bị cho trận chiến sắp tới.",
+  "director" : "Không rõ",
+  "id" : 6,
+  "img" : "https://cdn-4.ohay.tv/imgs/8b6b095b361c4d55b326/728.jpg",
+  "length" : "11 tập",
+  "level" : "P",
+  "onlist" : "recommend",
+  "priceVip" : 10,
+  "status" : 1,
+  "title" : "Dr Stone Season 2",
+  "type" : {
+    "anime" : "anime",
+    "family" : "family",
+    "series" : "series"
+  },
+  "year" : "2021",
+  "yttrailer" : "O08KzyL0ghA"
+}, {
+  "actor" : "Không rõ",
+  "backimg" : "https://i.imgur.com/6F4UO1g.gif",
+  "country" : "ja",
+  "createDay" : "2021-07-15",
+  "description" : "Hai người xa lạ nhận ra mình được liên kết với nhau một cách kì lạ. Sự gắn kết giữa họ vượt qua không gian và thời gian và phải cứu lấy thị trấn trước khi một thiên thạch vào trái đất.",
+  "director" : "Makoto Shinkai",
+  "id" : 7,
+  "img" : "https://i.pinimg.com/originals/b7/4b/0c/b74b0c006adfe2ab323e59e360cf2027.jpg",
+  "length" : "1h46p",
+  "level" : "P",
+  "onlist" : "trending",
+  "priceVip" : "6",
+  "status" : 1,
+  "title" : "Your Name",
+  "trending" : 4,
+  "type" : {
+    "anime" : "anime",
+    "movie" : "movie",
+    "romantic" : "romantic",
+    "scifi" : "scifi"
+  },
+  "year" : "2016",
+  "yttrailer" : "a2GujJZfXpg"
+}, {
+  "actor" : "Elijah Wood, Ian McKellen, Orlando Bloom",
+  "country" : "us",
+  "createDay" : "2021-07-15",
+  "description" : "Một người Hobbit nhu mì đến từ Shire và tám người bạn đồng hành đã lên đường phá hủy Chiếc nhẫn và cứu Trung địa khỏi Chúa tể Hắc ám Sauron.",
+  "director" : " Peter Jackson",
+  "id" : 8,
+  "img" : "https://g.christianbook.com/g/slideshow/5/554223/main/554223_1_ftc_dp.jpg",
+  "length" : "2h58p",
+  "level" : "PG13",
+  "priceVip" : "10",
+  "recommend" : 2,
+  "status" : 1,
+  "title" : "The Lord of the Rings: The Fellowship of the Rings",
+  "type" : {
+    "action" : "action",
+    "drama" : "drama",
+    "movie" : "movie",
+    "scifi" : "scifi"
+  },
+  "year" : "2001",
+  "yttrailer" : "V75dMMIW2B4"
+}, {
+  "Editday" : "2021-08-14",
+  "actor" : "Vin Diesel, John Cena, Jordana Brewster,...",
+  "backimg" : "https://i.imgur.com/C1qqDnM.gif",
+  "country" : "us",
+  "createDay" : "2021-07-15",
+  "description" : "Dom và những người bạn phải đối mặt với một tên khủng bố quốc tế hóa ra lại là anh trai của Mia...",
+  "director" : "Bicht Gumnery",
+  "id" : 9,
+  "img" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTe34hEmfewbuZlfFSL-PKON8dF-XqluUkHTAX4DDBDbyhh3pZC",
+  "length" : "2h23p",
+  "level" : "PG13",
+  "onlist" : "trending",
+  "priceVip" : "10",
+  "status" : 1,
+  "title" : "F9",
+  "type" : {
+    "action" : "action",
+    "crime" : "crime",
+    "movie" : "movie"
+  },
+  "year" : "20021",
+  "yttrailer" : "dQw4w9WgXcQ"
+}, {
+  "actor" : "Không rõ",
+  "country" : "ja",
+  "createDay" : "2021-07-15",
+  "description" : "Sau gần 3 năm chờ đợi, các fan của Miss Kobayashi's Dragon Maid (Kobayashi-san Chi no Maid Dragon)  sẽ được gặp lại dàn nhân vật vô cùng đáng yêu như Kanna, Tooru,... cùng hàng loạt những tình huống hài hước cười ra nước mắt.",
+  "director" : "Không rõ",
+  "id" : 10,
+  "img" : "https://image.lag.vn/upload/news/20/08/10/Kobayashi-san_Chi_no_Maid_Dragon-3_FTYV.jpg",
+  "length" : "6 tập",
+  "level" : "P",
+  "onlist" : "recommend",
+  "priceVip" : "10",
+  "status" : 1,
+  "title" : "Cô Hầu Gái Rồng Của Kobayashi S2",
+  "trending" : 7,
+  "type" : {
+    "anime" : "anime",
+    "comedy" : "comedy",
+    "family" : "family",
+    "movie" : "movie"
+  },
+  "year" : 2021,
+  "yttrailer" : "5I5JHsOu5m4"
+}, {
+  "actor" : "Emily Blunt, Millicent Simmonds, Cillian Murphy",
+  "country" : "us",
+  "createDay" : "2021-07-12",
+  "description" : "Sau những biến cố tại quê nhà, gia đình Abbott giờ đây phải đối mặt với nỗi kinh hoàng của thế giới bên ngoài. Bị buộc phải dấn thân vào những điều chưa biết, họ nhận ra những sinh vật săn mồi bằng âm thanh không phải là mối đe dọa duy nhất rình rập bên ngoài con đường cát.",
+  "director" : "John Krasinski",
+  "id" : 11,
+  "img" : "https://static.247phim.com/162300/conversions/60d564ce7055c_vug-435_627.jpg",
+  "length" : "1h37m",
+  "level" : "PG13",
+  "onlist" : "recommend",
+  "priceVip" : "10",
+  "recommend" : 9,
+  "status" : 1,
+  "title" : "Vùng đất câm lặng II",
+  "type" : {
+    "action" : "action",
+    "horror" : "horror",
+    "movie" : "movie",
+    "scifi" : "scifi"
+  },
+  "year" : "2020",
+  "yttrailer" : "BpdDN9d9Jio"
+}, {
+  "actor" : "Will Smith",
+  "country" : "us",
+  "createDay" : "2021-07-17",
+  "description" : "Nhiều năm sau khi một trận đại dịch giết chết hầu hết nhân loại và biến những người còn lại thành quái vật, người sống sót duy nhất ở thành phố New York đấu tranh để tìm cách chữa trị.",
+  "director" : "Francis Lawrence",
+  "id" : 12,
+  "img" : "https://static.247phim.com/154770/conversions/5f71abe973aac_i-am-legend-d-435_627.jpg",
+  "length" : "1h41p",
+  "level" : "PG13",
+  "priceVip" : "10",
+  "status" : 1,
+  "title" : "I Am Legend",
+  "type" : {
+    "action" : "action",
+    "horror" : "horror",
+    "movie" : "movie",
+    "scifi" : "scifi"
+  },
+  "year" : "2007",
+  "yttrailer" : "dtKMEAXyPkg"
+}, {
+  "actor" : " Chris Pratt",
+  "country" : "us",
+  "createDay" : "2021-07-16",
+  "description" : "Một người đàn ông được chuẩn bị để chiến đấu trong một cuộc chiến tương lai, nơi số phận của nhân loại phụ thuộc vào khả năng đối đầu với quá khứ của anh ta.",
+  "director" : " Chris McKay",
+  "id" : 13,
+  "img" : "data:image/jpeg;base64,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",
+  "length" : "2h18m",
+  "level" : "PG13",
+  "priceVip" : "12",
+  "recommend" : 10,
+  "status" : 1,
+  "title" : "The Tomorrow War",
+  "trending" : 2,
+  "type" : {
+    "action" : "action",
+    "movie" : "movie",
+    "scifi" : "scifi"
+  },
+  "year" : "2021",
+  "yttrailer" : "QPistcpGB8o"
+}, {
+  "actor" : "Tom Holland",
+  "country" : "us",
+  "createDay" : "2021-07-15",
+  "description" : "Rapunzel có mái tóc dài kỳ diệu đã dành toàn bộ cuộc đời mình trong một tòa tháp, nhưng giờ đây khi một tên trộm bỏ trốn tình cờ gặp cô, cô sắp khám phá thế giới lần đầu tiên và cô thực sự là ai.",
+  "director" : "Không rõ",
+  "id" : 14,
+  "img" : "https://upload.wikimedia.org/wikipedia/vi/c/ca/Tangled_rapunzel_poster_20.jpg",
+  "length" : "1h40m",
+  "level" : "P",
+  "priceVip" : "10",
+  "status" : 1,
+  "title" : "Người đẹp tóc mây",
+  "type" : {
+    "anime" : "anime",
+    "comedy" : "comedy",
+    "family" : "family",
+    "movie" : "movie"
+  },
+  "year" : "2010",
+  "yttrailer" : "JYKpIr1lSG0"
+}, {
+  "actor" : "Matthew McConaughey, Anne Hathaway, Jessica Chastain",
+  "country" : "us",
+  "createDay" : "2021-07-15",
+  "description" : "Một trong những bộ phim hay nhất từng được sản xuất",
+  "director" : " Christopher Nolan",
+  "id" : 15,
+  "img" : "https://res.cloudinary.com/kphim/image/upload/v1631928664/poster/ezgif-6-c3d80fc0ed7b_mapetb.webp",
+  "length" : "2h49m",
+  "level" : "PG13",
+  "priceVip" : "9",
+  "status" : 1,
+  "title" : "Interstellar",
+  "trending" : 8,
+  "type" : {
+    "action" : "action",
+    "drama" : "drama",
+    "movie" : "movie",
+    "scifi" : "scifi"
+  },
+  "year" : "2014",
+  "yttrailer" : "zSWdZVtXT7E"
+}, {
+  "actor" : "James Franco, Jonah Hill, Seth Rogen",
+  "country" : "us",
+  "createDay" : "2021-07-19",
+  "description" : "Sáu ngôi sao nổi tiếng của Hollywood đang mắc kẹt trong ngôi nhà của James Franco sau một loạt các sự kiện tàn khốc vừa phá hủy thành phố. Bên trong, cả nhóm không chỉ phải đối mặt với ngày tận thế, mà còn với chính họ. ",
+  "director" : "Evan Goldberg, Seth Rogen",
+  "id" : 16,
+  "img" : "https://upload.wikimedia.org/wikipedia/en/3/36/This-is-the-End-Film-Poster.jpg",
+  "length" : "1h59m",
+  "level" : "R",
+  "priceVip" : "10",
+  "recommend" : 1,
+  "status" : 1,
+  "title" : "Sống Nốt Ngày Cuối",
+  "type" : {
+    "comedy" : "comedy",
+    "movie" : "movie",
+    "scifi" : "scifi"
+  },
+  "year" : "2013",
+  "yttrailer" : "kliQSsD_npo"
+}, {
+  "actor" : "Không rõ",
+  "country" : "ja",
+  "createDay" : "2021-07-18",
+  "description" : "Trong thời gian gia đình chuyển đến vùng ngoại ô, một cô bé 10 tuổi vô tình vào một thế giới được cai trị bởi các vị thần, phù thủy và linh hồn, và nơi con người bị biến đổi thành quái thú.",
+  "director" : "Hayao Miyazaki",
+  "id" : 17,
+  "img" : "https://kenh14cdn.com/thumb_w/660/2018/6/11/r1-1528687472132578993120.jpg",
+  "length" : "2h05m",
+  "level" : "PG",
+  "priceVip" : "10",
+  "status" : 1,
+  "title" : "Spirited Away",
+  "type" : {
+    "anime" : "anime",
+    "drama" : "drama",
+    "movie" : "movie"
+  },
+  "year" : "2001",
+  "yttrailer" : "ByXuk9QqQkk"
+}, {
+  "actor" : "Tom Hank",
+  "country" : "us",
+  "createDay" : "2021-07-14",
+  "description" : "Theo sau Cuộc đổ bộ Normandy, một nhóm binh sĩ Hoa Kỳ đi vào sâu chiến tuyến của kẻ thù để tìm và giải cứu một lính dù khi tất cả anh em của anh ta đã thiệt mạng trong chiến đấu. Một bộ phim xuất sắc về chiến tranh đã dành 5 giải Oscar.",
+  "director" : " Steven Spielberg",
+  "id" : 18,
+  "img" : "https://res.cloudinary.com/kphim/image/upload/v1631928663/poster/ezgif-6-52273e5c2291_gnshji.webp",
+  "length" : "2h49m",
+  "level" : "R",
+  "priceVip" : "3",
+  "status" : 1,
+  "title" : "Giải cứu binh nhì Ryan",
+  "type" : {
+    "action" : "action",
+    "drama" : "drama",
+    "movie" : "movie"
+  },
+  "year" : "1998",
+  "yttrailer" : "OqSg7WO4tT4"
+}, {
+  "actor" : "Fionn Whitehead, Barry Keoghan, Mark Rylance",
+  "country" : "wo",
+  "createDay" : "2021-07-20",
+  "description" : "Hàng trăm ngàn lính Đồng minh từ nhiều quốc gia bị Quân đội Đức bao vây và không còn đường lui khi bị dồn vào bờ biển. Đứng trước cái chết, những người lính đã được cứu nhờ cuộc sơ tán với sự giúp đỡ của những ngư dân. Dẫn đến một bước ngoặt lớn trong thế chiến thứ hai.",
+  "director" : "Christopher Nolan",
+  "id" : 19,
+  "img" : "https://upload.wikimedia.org/wikipedia/vi/thumb/7/71/Cu%E1%BB%99c_di_t%E1%BA%A3n_Dunkirk_poster.jpg/220px-Cu%E1%BB%99c_di_t%E1%BA%A3n_Dunkirk_poster.jpg",
+  "length" : "1h46m",
+  "level" : "PG13",
+  "priceVip" : "10",
+  "status" : 1,
+  "title" : "Dunkirk",
+  "type" : {
+    "action" : "action",
+    "drama" : "drama",
+    "movie" : "movie"
+  },
+  "year" : "2017",
+  "yttrailer" : "F-eMt3SrfFU"
+}, {
+  "actor" : "Scarlett Johansson, Florence Pugh, David Harbour",
+  "country" : "us",
+  "description" : "Natasha Romanoff phải đối mặt với những phần đen tối trong hồ sơ của mình khi một âm mưu nguy hiểm liên quan đến quá khứ của cô nảy sinh.",
+  "director" : "Cate Shortland",
+  "id" : 20,
+  "img" : "https://res.cloudinary.com/kphim/image/upload/v1631928663/poster/ezgif-6-a6024a5a2ee8_rhtfnr.webp",
+  "length" : "2h14m",
+  "level" : "PG13",
+  "priceVip" : "10",
+  "recommend" : 0,
+  "status" : 1,
+  "title" : "Black Window",
+  "trending" : 9,
+  "type" : {
+    "action" : "action",
+    "movie" : "movie"
+  },
+  "year" : "2021",
+  "yttrailer" : "ybji16u608U"
+}, {
+  "actor" : "Joaquin Phoenix, Robert De Niro",
+  "country" : "us",
+  "createDay" : "2021-07-20",
+  "description" : "Tại thành phố Gotham, diễn viên hài Arthur Fleck bị rối loạn tâm thần bị xã hội coi thường và ngược đãi. Sau đó anh ta dấn thân vào vòng xoáy đi xuống của cuộc cách mạng và tội ác đẫm máu. Con đường này đưa anh ta đối mặt với bản ngã thay thế của mình: Joker.",
+  "director" : " Todd Phillips",
+  "id" : 21,
+  "img" : "https://genk.mediacdn.vn/2019/10/28/photo-3-157223428377635797016.jpg",
+  "length" : "2h02m",
+  "level" : "R",
+  "priceVip" : "10",
+  "status" : 1,
+  "title" : "JOKER",
+  "type" : {
+    "action" : "action",
+    "crime" : "crime",
+    "drama" : "drama",
+    "movie" : "movie"
+  },
+  "year" : "2019",
+  "yttrailer" : "zAGVQLHvwOY"
+}, {
+  "actor" : "Christian Bale, Heath Ledger",
+  "country" : "us",
+  "createDay" : "2021-07-22",
+  "description" : "Mối đe dọa mang tên Joker đang tàn phá và gây hỗn loạn lên người dân Gotham, Batman phải chấp nhận một trong những bài kiểm tra tâm lý và thể chất lớn nhất về khả năng chống lại sự bất công.",
+  "director" : " Christopher Nolan",
+  "id" : 22,
+  "img" : "https://i.imgur.com/iB7uhyX.jpg",
+  "length" : "2h32m",
+  "level" : "PG13",
+  "priceVip" : "10",
+  "recommend" : 3,
+  "status" : 1,
+  "title" : "The Dark Kight",
+  "type" : {
+    "horror" : "horror",
+    "movie" : "movie",
+    "scifi" : "scifi"
+  },
+  "year" : 2008,
+  "yttrailer" : "EXeTwQWrcwY"
+}, {
+  "actor" : "just me",
+  "country" : "us",
+  "createDay" : "2021-07-24",
+  "description" : "phim được thêm bằng client admin, không phải trực tiếp trên database. TESTTT",
+  "director" : "It's me",
+  "id" : 23,
+  "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Felis_silvestris_silvestris_Luc_Viatour.jpg/310px-Felis_silvestris_silvestris_Luc_Viatour.jpg",
+  "length" : "3 tập",
+  "level" : "PG16",
+  "priceVip" : "10",
+  "recommend" : 4,
+  "status" : 1,
+  "title" : "First add from admin page",
+  "type" : {
+    "scifi" : "scifi",
+    "series" : "series"
+  },
+  "year" : "2021",
+  "yttrailer" : "dQw4w9WgXcQ"
+}, {
+  "Editday" : "2021-08-17",
+  "actor" : "Robert Downey, Jr.Chris Evans, Mark Ruffalo, Chris Hemsworth, Chadwick Boseman, Benedict Cumberbatch, Tom Holland",
+  "backimg" : "https://i.imgur.com/awkIpBS.gif",
+  "country" : "us",
+  "createDay" : "2021-07-20",
+  "description" : "Sau những sự kiện tàn khốc của Avengers: Infinity War (2018), vũ trụ đang dần tàn lụi. Với sự giúp đỡ của các đồng minh còn lại, các Avengers tập hợp một lần nữa để đảo ngược hành động của Thanos và khôi phục lại sự cân bằng cho vũ trụ. Trận chiến cuối cùng của các siêu anh hùng trước thế lực mạnh mẽ của Thanos.",
+  "director" : "Anthony Russo, Joe Russo",
+  "id" : 24,
+  "img" : "https://res.cloudinary.com/kphim/image/upload/v1631928664/poster/ezgif-6-d810a3d8c93f_uvfjmt.webp",
+  "length" : "3h03p",
+  "level" : "PG13",
+  "priceVip" : "3",
+  "status" : 1,
+  "title" : "Avenger: End game",
+  "type" : {
+    "action" : "action",
+    "movie" : "movie",
+    "scifi" : "scifi"
+  },
+  "year" : "2019",
+  "yttrailer" : "TcMBFSGVi1c"
+}, {
+  "Editday" : "2021-08-17",
+  "actor" : "Không rõ",
+  "country" : "us",
+  "createDay" : "2021-08-17",
+  "description" : "Một bộ sưu tập các bộ phim ngắn hoạt hình trải dài nhiều thể loại khác nhau bao gồm khoa học viễn tưởng, giả tưởng, kinh dị và hài.",
+  "director" : "Tim Miller (Creator)",
+  "id" : 25,
+  "img" : "https://i.imgur.com/SQVO0ah.jpg",
+  "length" : "8 tập",
+  "level" : "R",
+  "priceVip" : "12",
+  "status" : 1,
+  "title" : "Love, Death and Robots II",
+  "type" : {
+    "anime" : "anime",
+    "comedy" : "comedy",
+    "drama" : "drama",
+    "horror" : "horror",
+    "scifi" : "scifi",
+    "series" : "series"
+  },
+  "year" : "2021",
+  "yttrailer" : "Gj2iCJkp6Ko"
+}, {
+  "actor" : "Russell Crowe, Ed Harris, Jennifer Connelly",
+  "country" : "us",
+  "description" : "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+  "director" : "Ron Howard",
+  "id" : 26,
+  "img" : "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "language" : "English",
+  "length" : "135 min",
+  "level" : "PG-13",
+  "title" : "A Beautiful Mind",
+  "type" : {
+    "drama" : "drama"
+  },
+  "year" : "2001"
+}, {
+  "actor" : "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+  "country" : "us",
+  "description" : "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+  "director" : "Lana Wachowski, Lilly Wachowski",
+  "id" : 27,
+  "img" : "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+  "language" : "English",
+  "length" : "136 min",
+  "level" : "R",
+  "title" : "The Matrix",
+  "type" : {
+    "action" : "action",
+    "scifi" : "scifi"
+  },
+  "year" : "1999"
+}, {
+  "actor" : "Tom Hanks, Helen Hunt, Paul Sanchez",
+  "country" : "us",
+  "description" : "A FedEx executive undergoes a physical and emotional transformation after crash landing on a deserted island.",
+  "director" : "Robert Zemeckis",
+  "id" : 28,
+  "img" : "https://m.media-amazon.com/images/M/MV5BN2Y5ZTU4YjctMDRmMC00MTg4LWE1M2MtMjk4MzVmOTE4YjkzXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_SX300.jpg",
+  "language" : "English, Russian",
+  "length" : "143 min",
+  "level" : "PG-13",
+  "title" : "Cast Away",
+  "type" : {
+    "adventure" : "adventure",
+    "drama" : "drama",
+    "romantic" : "romantic"
+  },
+  "year" : "2000"
+}, {
+  "actor" : "Dakota Fanning, Teri Hatcher, John Hodgman",
+  "country" : "us",
+  "description" : "An adventurous 11-year-old girl finds another world that is a strangely idealized version of her frustrating home, but it has sinister secrets.",
+  "director" : "Henry Selick",
+  "id" : 29,
+  "img" : "https://m.media-amazon.com/images/M/MV5BMzQxNjM5NzkxNV5BMl5BanBnXkFtZTcwMzg5NDMwMg@@._V1_SX300.jpg",
+  "language" : "English, Russian",
+  "length" : "100 min",
+  "level" : "PG",
+  "title" : "Coraline",
+  "type" : {
+    "anime" : "anime",
+    "drama" : "drama",
+    "family" : "family"
+  },
+  "year" : "2009"
+}, {
+  "actor" : "Kang-ho Song, Sun-kyun Lee, Yeo-jeong Cho",
+  "country" : "ko",
+  "description" : "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+  "director" : "Bong Joon Ho",
+  "id" : 30,
+  "img" : "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+  "language" : "Korean, English",
+  "length" : "132 min",
+  "level" : "R",
+  "title" : "Parasite",
+  "type" : {
+    "comedy" : "comedy",
+    "drama" : "drama"
+  },
+  "year" : "2019"
+}, {
+  "actor" : "Shameik Moore, Jake Johnson, Hailee Steinfeld",
+  "country" : "us",
+  "description" : "Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+  "director" : "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+  "id" : 31,
+  "img" : "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SX300.jpg",
+  "language" : "English, Spanish",
+  "length" : "117 min",
+  "level" : "PG",
+  "title" : "Spider-Man: Into the Spider-Verse",
+  "type" : {
+    "action" : "action",
+    "adventure" : "adventure",
+    "anime" : "anime"
+  },
+  "year" : "2018"
+}, {
+  "actor" : "Trúc Anh, Tran Nghia, Tran Phong",
+  "country" : "vi",
+  "description" : "A movie tells the one sided love story of young man - Ngan for his girlfriend from childhood - Halan",
+  "director" : "Victor Vu",
+  "id" : 32,
+  "img" : "https://m.media-amazon.com/images/M/MV5BMDlmYThhNWQtODcxZC00MjEwLTg1ZjgtODQyNDk0MmViNDRkXkEyXkFqcGdeQXVyOTIxNDQ1MTQ@._V1_SX300.jpg",
+  "language" : "Vietnamese",
+  "length" : "117 min",
+  "level" : "N/A",
+  "title" : "Mat Biec",
+  "type" : {
+    "drama" : "drama",
+    "romantic" : "romantic"
+  },
+  "year" : "2019"
+}, {
+  "actor" : "James Franco, Jonah Hill, Seth Rogen",
+  "country" : "us",
+  "description" : "Six Los Angeles celebrities are stuck in James Franco's house after a series of devastating events just destroyed the city. Inside, the group not only have to face the apocalypse, but themselves.",
+  "director" : "Evan Goldberg, Seth Rogen",
+  "id" : 33,
+  "img" : "https://m.media-amazon.com/images/M/MV5BMTQxODE3NjM1Ml5BMl5BanBnXkFtZTcwMzkzNjc4OA@@._V1_SX300.jpg",
+  "language" : "English, Spanish",
+  "length" : "107 min",
+  "level" : "R",
+  "title" : "This Is the End",
+  "type" : {
+    "comedy" : "comedy"
+  },
+  "year" : "2013"
+}, {
+  "actor" : "Jack Nicholson, Shelley Duvall, Danny Lloyd",
+  "country" : "us",
+  "description" : "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+  "director" : "Stanley Kubrick",
+  "id" : 34,
+  "img" : "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "language" : "English",
+  "length" : "146 min",
+  "level" : "R",
+  "title" : "The Shining",
+  "type" : {
+    "drama" : "drama",
+    "horror" : "horror"
+  },
+  "year" : "1980"
+}, {
+  "actor" : "Hugo Weaving, Natalie Portman, Rupert Graves",
+  "country" : "us",
+  "description" : "In a future British tyranny, a shadowy freedom fighter, known only by the alias of \"V\", descriptions to overthrow it with the help of a young woman.",
+  "director" : "James McTeigue",
+  "id" : 35,
+  "img" : "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_SX300.jpg",
+  "language" : "English",
+  "length" : "132 min",
+  "level" : "R",
+  "title" : "V for Vendetta",
+  "type" : {
+    "action" : "action",
+    "drama" : "drama",
+    "scifi" : "scifi"
+  },
+  "year" : "2005"
+}, {
+  "actor" : "Melissa George, Joshua McIvor, Jack Taylor",
+  "country" : "uk",
+  "description" : "Yacht passengers encounter mysterious weather conditions that force them to jump onto another ship, only to have the odd havoc increase.",
+  "director" : "Christopher Smith",
+  "id" : 36,
+  "img" : "https://m.media-amazon.com/images/M/MV5BY2VlODI5ZmMtZDExYS00OWI4LWJiMWItZWZkZWRkNzlmZWI2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "language" : "English",
+  "length" : "99 min",
+  "level" : "R",
+  "title" : "Triangle",
+  "type" : {
+    "horror" : "horror",
+    "scifi" : "scifi"
+  },
+  "year" : "2009"
+}, {
+  "actor" : "Gong Yoo, Yu-mi Jung, Ma Dong-seok",
+  "country" : "ko",
+  "description" : "While a zombie virus breaks out in South Korea, passengers struggle to survive on the train from Seoul to Busan.",
+  "director" : "Sang-ho Yeon",
+  "id" : 37,
+  "img" : "https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_SX300.jpg",
+  "language" : "Korean, Hawaiian",
+  "length" : "118 min",
+  "level" : "Not level",
+  "title" : "Train to Busan",
+  "type" : {
+    "action" : "action",
+    "horror" : "horror"
+  },
+  "year" : "2016"
+}, {
+  "actor" : "Gô Ayano, Edward Bosco, Amber Lee Connors",
+  "country" : "ja",
+  "description" : "Truth and illusion blurs when a homeless amnesiac awakens from an experimental medical procedure with the ability to see people's innermost traumas.",
+  "director" : "Takashi Shimizu",
+  "id" : 38,
+  "img" : "https://m.media-amazon.com/images/M/MV5BN2RkY2ExOGMtM2RmMi00YWVjLTliZDAtM2M1MDI5YzdiNzI5XkEyXkFqcGdeQXVyNjE4OTY3NTg@._V1_SX300.jpg",
+  "language" : "Japanese",
+  "length" : "115 min",
+  "level" : "TV-MA",
+  "title" : "Homunculus",
+  "type" : {
+    "drama" : "drama",
+    "horror" : "horror"
+  },
+  "year" : "2021"
+}, {
+  "actor" : "Stephen Chow, Wah Yuen, Qiu Yuen",
+  "country" : "ch",
+  "description" : "In Shanghai, China in the 1940s, a wannabe gangster aspires to join the notorious \"Axe Gang\" while residents of a housing complex exhibit extraordinary powers in defending their turf.",
+  "director" : "Stephen Chow",
+  "id" : 39,
+  "img" : "https://m.media-amazon.com/images/M/MV5BMjZiOTNlMzYtZWYwZS00YWJjLTk5NDgtODkwNjRhMDI0MjhjXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_SX300.jpg",
+  "language" : "Trung Quoc",
+  "length" : "99 min",
+  "level" : "R",
+  "title" : "Kung fu",
+  "type" : {
+    "action" : "action",
+    "comedy" : "comedy"
+  },
+  "year" : "2004"
+}, {
+  "actor" : "Stephen Chow, Wei Zhao, Yat-Fei Wong",
+  "country" : "ch",
+  "description" : "A young Shaolin follower reunites with his discouraged brothers to form a soccer team using their martial art skills to their advantage.",
+  "director" : "Stephen Chow",
+  "id" : 40,
+  "img" : "https://m.media-amazon.com/images/M/MV5BMjA1NTAwNTcyN15BMl5BanBnXkFtZTYwNjYxNzk5._V1_SX300.jpg",
+  "language" : "Trung quoc",
+  "length" : "87 min",
+  "level" : "PG",
+  "title" : "Doi bong tieu lam",
+  "type" : {
+    "action" : "action",
+    "comedy" : "family"
+  },
+  "year" : "2001"
+} ]
